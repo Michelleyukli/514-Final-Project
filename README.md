@@ -1,2 +1,3 @@
 # Ultimate Frisbee Tracker
 It's a wearable ultimate Frisbee data recording device to facilitate frisbee players to monitor their Frisbee data during competition and training. The sensing device will incorporate a small, lightweight enclosure that can be easily attached to the frisbee players. Considering the dynamic nature of Ultimate Frisbee, a Bluetooth Low Energy (BLE) connection will ensure real-time data transfer without impacting the player's performance. The display device, designed for player convenience, will feature a wrist-mounted or clothing-attachable enclosure with intuitive controls.
+<img width="579" alt="截屏2024-01-16 下午3 56 22" src="https://github.com/Michelleyukli/514-Final-Project/assets/148395276/3f53e83b-f244-42ec-979c-0181acdf2ae1">
