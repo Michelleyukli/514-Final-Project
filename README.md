@@ -7,9 +7,9 @@ It's a wearable ultimate Frisbee data recording device to facilitate frisbee pla
 ## Sensing Device：
 Hardware Setup:
 
- - Use ESP32 as the microcontroller for my sensing device.
- - Attach an MPU6050 accelerometer and gyroscope sensor to ESP32. Attach the sensor securely to the frisbee. (Consider the orientation and placement for accurate readings.) 
- - Battery: Compact and lightweight with enough capacity for the entire game.
+ 1.Use ESP32 as the microcontroller for my sensing device.
+ 2.Attach an MPU6050 accelerometer and gyroscope sensor to ESP32. Attach the sensor securely to the frisbee. (Consider the orientation and placement for accurate readings.) 
+ 3.Battery: Compact and lightweight with enough capacity for the entire game.
 Configure the sensors to provide readings at an appropriate sampling rate for my application.
 
 Data Fusion:
@@ -41,11 +41,11 @@ Power Management:
 
 
 ## Display Device：
-   - Gauge Needle and LEDs: Stepper motor-driven gauge needle to indicate the distance of the frisbee's throwing yards and a LED for visual feedback whether the Frisbee was successfully thrown. 
-   - Button: A simple button for player interaction, allowing them to reset the training. 
-   - Battery: Compact and lightweight with enough capacity for the entire game.
-   - Additional Displays: OLED display for real-time statistics (If needed)
-   - ESP32: Receiving the data from the sensing device, served as a transmitter for data processing.
+   1.Gauge Needle and LEDs: Stepper motor-driven gauge needle to indicate the distance of the frisbee's throwing yards and a LED for visual feedback whether the Frisbee was successfully thrown. 
+   2.Button: A simple button for player interaction, allowing them to reset the training. 
+   3.Battery: Compact and lightweight with enough capacity for the entire game.
+   4.Additional Displays: OLED display for real-time statistics (If needed)
+   5.ESP32: Receiving the data from the sensing device, served as a transmitter for data processing.
 
 <img width="885" alt="截屏2024-01-16 下午6 01 32" src="https://github.com/Michelleyukli/514-Final-Project/assets/148395276/af2153df-9ef9-416f-9cae-d9b490c8db35">
 
