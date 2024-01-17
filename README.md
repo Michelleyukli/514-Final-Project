@@ -40,6 +40,7 @@ Power Management:
 <img width="885" alt="截屏2024-01-16 下午6 01 32" src="https://github.com/Michelleyukli/514-Final-Project/assets/148395276/4383e754-75d8-4be0-b490-3209336c8d8e">
 
 
+
 ## Display Device：
    1.Gauge Needle and LEDs: Stepper motor-driven gauge needle to indicate the distance of the frisbee's throwing yards and a LED for visual feedback whether the Frisbee was successfully thrown. 
    2.Button: A simple button for player interaction, allowing them to reset the training. 
@@ -47,5 +48,4 @@ Power Management:
    4.Additional Displays: OLED display for real-time statistics (If needed)
    5.ESP32: Receiving the data from the sensing device, served as a transmitter for data processing.
 
-<img width="885" alt="截屏2024-01-16 下午6 01 32" src="https://github.com/Michelleyukli/514-Final-Project/assets/148395276/af2153df-9ef9-416f-9cae-d9b490c8db35">
-
+<img width="1227" alt="截屏2024-01-16 下午6 15 47" src="https://github.com/Michelleyukli/514-Final-Project/assets/148395276/a0dcc847-a023-4a57-823e-2d0661c75ea0">
